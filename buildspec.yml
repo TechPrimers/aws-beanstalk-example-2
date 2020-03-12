@@ -4,6 +4,7 @@ version: 0.2
 phases:
   pre_build:
     commands:
+    install java
     - echo "Entered the pre-build phase"
   build:
     commands:
