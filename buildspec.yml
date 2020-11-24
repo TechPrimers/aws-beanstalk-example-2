@@ -1,4 +1,4 @@
-# This file controls the AWS CodeBuild
+# This file controls the AWS CodeBuild buildspec.yml
 
 version: 0.2
 phases:
